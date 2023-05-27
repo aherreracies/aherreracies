@@ -5,7 +5,7 @@
 
 - 💬 Pregúntame sobre **HTML, CSS, SCSS, Javascript y ReactJS**
 
-- 📫 Cómo puedes contactarme **aherreracies@gmail.com**
+- 📫 Contacta conmigo en **aherreracies@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
