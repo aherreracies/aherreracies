@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Alberto Herrera</h1>
-<h3 align="center">Soy un desarrollador web frontend apasionado,</h3>
+<h3 align="center">Soy un desarrollador web frontend apasionado.</h3>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [aherreracies.github.io](aherreracies.github.io)
 
